@@ -1,3 +1,4 @@
+/** FEEDBACK: Your front end is not being served because you did not remove your dist folder from the gitignore. */
 const express = require('express');
 const app = express();
 // Import the path module to construct the absolute path to the static assets folder
