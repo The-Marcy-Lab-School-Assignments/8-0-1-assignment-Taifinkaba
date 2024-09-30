@@ -54,8 +54,10 @@ Before continuing, make sure that these tasks are completed!
 
 **Deployment Technical Requirements**
 
-- [x] Your GitHub page has a link to the deployed server in the About section. 
+- [ ] Your GitHub page has a link to the deployed server in the About section. 
 https://eight-0-1-assignment-taifinkaba.onrender.com
+
+FEEDBACK: This link opens, but nothing pops up! It's blank. 
 
 ## Part 1 — Setup
 
